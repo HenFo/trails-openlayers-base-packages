@@ -1,5 +1,9 @@
 # @open-pioneer/selection
 
+## 0.7.1
+
+-   Added support for point selections
+
 ## 0.7.0
 
 ### Minor Changes
